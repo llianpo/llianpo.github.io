@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/css/fonts/JetBrainsMono-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HYZhengYuan";
+  src: url("/css/fonts/HYZhengYuan-55W.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html, body, .markdown-body {
+  font-family: "JetBrains Mono", "HYZhengYuan", serif;
+}
