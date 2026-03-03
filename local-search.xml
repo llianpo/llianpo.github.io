@@ -4,13 +4,44 @@
   
   
   <entry>
-    <title>index</title>
-    <link href="/2026/03/02/index/"/>
-    <url>/2026/03/02/index/</url>
+    <title>交易系统</title>
+    <link href="/2026/03/03/%E4%BB%B7%E6%A0%BC%E8%A1%8C%E4%B8%BA/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/"/>
+    <url>/2026/03/03/%E4%BB%B7%E6%A0%BC%E8%A1%8C%E4%B8%BA/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="交易流程"><a href="#交易流程" class="headerlink" title="交易流程"></a>交易流程</h2><ol><li>标记磁体</li><li>识别周期</li><li>识别推动</li><li>等待建仓</li><li>建仓进场</li><li>持仓管理</li></ol><h2 id="建仓方案"><a href="#建仓方案" class="headerlink" title="建仓方案"></a>建仓方案</h2><h3 id="预先准备"><a href="#预先准备" class="headerlink" title="预先准备"></a>预先准备</h3><p>在建仓前，必须要考虑的事情就是止盈止损，盈亏比不合适就不要建仓。</p><p>宽止损：止损放到附近的磁体&#x2F;极值，例如：突破起点、重要高低点、原趋势极值、区间极值</p><p>止损决定止盈，顺势交易中，盈亏比 &gt;&#x3D; 0.4，逆势交易中，盈亏比 &gt;&#x3D; 2</p><p>逆势交易胜率低，所以必须等待一根好的信号 K 再建仓。</p><p>止盈：仓位前方的阻力磁体</p><ul><li>等距运动<ul><li>基于急速的等距运动</li><li>基于实际风险的等距运动</li><li>基于形态的等距运动</li><li>AB &#x3D; CD 等距运动</li></ul></li><li>重要高低点</li><li>原趋势极值</li><li>通道起点</li><li>区间 1&#x2F;3</li></ul><h3 id="突破成功"><a href="#突破成功" class="headerlink" title="突破成功"></a>突破成功</h3><p>趋势 K 线实体穿越磁体，后续 1 ~ 2 根 K 线确认跟随。</p><table><thead><tr><th>名称</th><th>描述</th></tr></thead><tbody><tr><td>突破跟随</td><td>突破的前方没有阻力磁体，在确认跟随 K 线收盘时市价建仓</td></tr><tr><td>突破入窄</td><td>突破后，开始出现 1 ~ 2 根 K 线的停顿或回调，后续 2 根出现信号 K 挂突破单建仓</td></tr><tr><td>突破回测</td><td>突破后，<strong>充分回测任意磁体</strong>，展现的是逆势无力，后续 2 根出现信号 K 挂突破单建仓</td></tr><tr><td>旗形回调</td><td>突破后，出现旗形回调（ 二推、三推 ），对决线位置出现信号 K 挂突破单建仓</td></tr></tbody></table><h3 id="突破失败"><a href="#突破失败" class="headerlink" title="突破失败"></a>突破失败</h3><p>实体<strong>穿越磁体</strong>后，没有跟随</p><p>影线<strong>接触磁体</strong>后，立马折返 V</p><table><thead><tr><th>名称</th><th>描述</th></tr></thead><tbody><tr><td>早盘突破失败</td><td>突破 RTH 昨日最高最低失败，出现好的信号 K，挂止损单建仓</td></tr><tr><td>三推反转</td><td>连续两次推动都突破前推动极值失败，出现好的信号 K，挂止损单建仓</td></tr></tbody></table><h3 id="止盈高潮"><a href="#止盈高潮" class="headerlink" title="止盈高潮"></a>止盈高潮</h3><p>价格到达某个磁体位置后，前进运动就戛然而止。一般是顺势方止盈离场导致的。</p><p>止盈高潮后的情况：</p><ol><li>TBTL 回调后，延续原来趋势</li><li>进入交易区间</li><li>逆势方发力，开始反转（ 逆势方看到反转结构，比如三推、头肩… ）</li></ol><table><thead><tr><th>名称</th><th>描述</th></tr></thead><tbody><tr><td>三推反转</td><td>急速一推，通道两推，第三推到达止盈目标后戛然而止，出现好的信号 K，挂止损单建仓</td></tr></tbody></table><h3 id="交易区间"><a href="#交易区间" class="headerlink" title="交易区间"></a>交易区间</h3><p>四个点确定一个区间，后续两次推动均突破原趋势极值失败（ 充分测试 接触到极值 ）</p><table><thead><tr><th>名称</th><th>描述</th></tr></thead><tbody><tr><td>高抛低吸</td><td>区间上 1&#x2F;3 出现信号 K 突破单做空，下 1&#x2F;3 做多</td></tr></tbody></table><h2 id="持仓方案"><a href="#持仓方案" class="headerlink" title="持仓方案"></a>持仓方案</h2><table><thead><tr><th>调整止损</th><th>调整止盈</th></tr></thead><tbody><tr><td>新的重要高低点磁体</td><td>更近但是符合盈亏比的等距运动</td></tr><tr><td>急速运动中的放弃 K 线</td><td></td></tr><tr><td>逆势建仓的信号 K 线</td><td></td></tr><tr><td>连续 3 根好的反向趋势 K 线</td><td></td></tr><tr><td>更近的等距运动处的反转信号 K</td><td></td></tr></tbody></table>]]></content>
     
     
+    <categories>
+      
+      <category>价格行为</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>ES 突破跟随</title>
+    <link href="/2026/03/03/%E4%BA%A4%E6%98%93%E6%97%A5%E5%BF%97/2026-03/ES/"/>
+    <url>/2026/03/03/%E4%BA%A4%E6%98%93%E6%97%A5%E5%BF%97/2026-03/ES/</url>
+    
+    <content type="html"><![CDATA[<h2 id="早盘突破跟随"><a href="#早盘突破跟随" class="headerlink" title="早盘突破跟随"></a>早盘突破跟随</h2><blockquote><p>反思</p><p>基于急速的等距运动其实是动能交易者的止盈目标，B3 入场的动能交易者就会选择使用 B3做等距运动</p><p>没有考虑到这一点，所以在到达 B3 等距运动的止盈并且停滞后没有选择离场</p><p>还有一点是，出现重要高点但是没有移动止损，导致亏损</p></blockquote><p>建仓：B3 突破 RTH 首根 K 线 ，B4 确认跟随，收盘时市价建仓</p><p>目标止盈：1 倍基于急速的等距运动 </p><p><img src="https://blog-1310215391.cos.ap-beijing.myqcloud.com/images/image-20260303225719347.png" alt="image-20260303225719347"></p><p>B21 收盘后调整止损离场</p><p><img src="https://blog-1310215391.cos.ap-beijing.myqcloud.com/images/image-20260304001728900.png" alt="image-20260304001728900"></p><p><img src="https://blog-1310215391.cos.ap-beijing.myqcloud.com/images/image-20260304002138409.png" alt="image-20260304002138409"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>交易日志</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>ES</tag>
+      
+    </tags>
     
   </entry>
   
